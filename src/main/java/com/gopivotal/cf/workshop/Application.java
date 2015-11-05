@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 
 /**
  * Used to initialize the app when packaged as a JAR
- * @author kkrueger modified by amar kapadia
+ * @author kkrueger modified by amar kapadia at mirantis
  */
 public class Application {
 
